@@ -1,0 +1,1 @@
+export const themeDuration: string = "duration-200";
